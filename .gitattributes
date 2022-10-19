@@ -33,9 +33,9 @@
 *.css linguist-documentation=false
 *.css linguist-language=CSS
 # Befunge source file
-*.bs linguist-detectable=true
-*.bs linguist-documentation=false
-*.bs linguist-language=Befunge
+*.be linguist-detectable=true
+*.be linguist-documentation=false
+*.be linguist-language=Befunge
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -169,6 +169,6 @@
 
 # File info
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2022, Tuesday, October 18th at 5:23 pm PST)
+# File version: 6 (2022, Tuesday, October 18th at 5:29 pm PST)
 # Line count (including blank lines and compiler line): 175
 # End of script
